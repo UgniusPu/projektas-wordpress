@@ -1,0 +1,53 @@
+header {
+  min-height: 100vh;
+  background-image: url(assets\wp-content\themes\projektas\assets\images\abstract-technology-chip-processor-background-circuit-board-and-html-code-blue-technology-background-vector.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#navbar-nav ul li a {
+  font-size: 2rem;
+}
+
+.hero {
+  width: 60%;
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero h1 {
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 3%;
+}
+.hero p {
+  margin-top: 30px;
+  margin: auto;
+  text-align: center;
+}
+
+.footerr p {
+  background-color: rgb(54, 52, 52);
+  color: aliceblue;
+  margin-bottom: 0%;
+  text-align: center;
+}
+span {
+  display: inline-block;
+  padding: 10px;
+}
+
+.footerr {
+  position: fixed;
+  bottom: 0;
+}
+
+.google {
+  padding-left: 5%;
+}
+
+.contacts h4 {
+  margin-left: 10px;
+}
