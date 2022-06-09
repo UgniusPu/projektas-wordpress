@@ -36,7 +36,7 @@ get_header();
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">
-            <img src="assets\wp-content\themes\projektas\assets\images\drop_water_glare_299693_1920x1080.jpg" class="d-block w-100" alt="..." />
+            <img src="http://localhost/test/assets/wp-content/uploads/2022/06/drop_water_glare_299693_1920x1080.jpg" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
                 <h1>Lorem ipsum dolor sit amet.</h1>
                 <p>
@@ -46,7 +46,7 @@ get_header();
             </div>
         </div>
         <div class="carousel-item" data-bs-interval="2000">
-            <img src="assets\wp-content\themes\projektas\assets\images\galaxy_stars_andromeda_299833_1920x1080.jpg" class="d-block w-100" alt="..." />
+            <img src="http://localhost/test/assets/wp-content/uploads/2022/06/galaxy_stars_andromeda_299833_1920x1080.jpg" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
                 <h1>Lorem ipsum dolor sit amet.</h1>
                 <p>
@@ -56,7 +56,7 @@ get_header();
             </div>
         </div>
         <div class="carousel-item">
-            <img src="assets\wp-content\themes\projektas\assets\images\magician_silhouette_deity_299750_1920x1080.jpg" class="d-block w-100" alt="..." />
+            <img src="http://localhost/test/assets/wp-content/uploads/2022/06/magician_silhouette_deity_299750_1920x1080.jpg" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
                 <h1>Lorem ipsum dolor sit amet.</h1>
                 <p>

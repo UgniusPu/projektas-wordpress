@@ -15,7 +15,7 @@ get_header(); ?>
         <div class="row">
             <div class="col-sm">
                 <div class="card " style="width: col-sm-4">
-                    <img src="assets\wp-content\themes\projektas\assets\images\rene-padillo-d8nGnF1IqCk-unsplash.jpg" class="card-img-top" alt="..." />
+                    <img src="http://localhost/test/assets/wp-content/uploads/2022/06/rene-padillo-d8nGnF1IqCk-unsplash.jpg" class="card-img-top" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">
@@ -27,7 +27,7 @@ get_header(); ?>
             </div>
             <div class="col-sm">
                 <div class="card" style="width:col-sm-4">
-                    <img src="assets\wp-content\themes\projektas\assets\images\rene-padillo-d8nGnF1IqCk-unsplash.jpg" class="card-img-top" alt="..." />
+                    <img src="http://localhost/test/assets/wp-content/uploads/2022/06/rene-padillo-d8nGnF1IqCk-unsplash.jpg" class="card-img-top" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">
@@ -39,7 +39,7 @@ get_header(); ?>
             </div>
             <div class="col-sm">
                 <div class="card" style="width:col-sm-4">
-                    <img src="assets\wp-content\themes\projektas\assets\images\rene-padillo-d8nGnF1IqCk-unsplash.jpg" class="card-img-top" alt="..." />
+                    <img src="http://localhost/test/assets/wp-content/uploads/2022/06/rene-padillo-d8nGnF1IqCk-unsplash.jpg" class="card-img-top" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">
@@ -79,3 +79,4 @@ get_header(); ?>
         </div>
     </div>
 </section>
+<?php get_footer(); ?>
