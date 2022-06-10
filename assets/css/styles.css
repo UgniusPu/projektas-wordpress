@@ -1,6 +1,6 @@
 header {
   min-height: 100vh;
-  background-image: url(http://localhost/test/assets/wp-content/uploads/2022/06/abstract-technology-chip-processor-background-circuit-board-and-html-code-blue-technology-background-vector.jpg);
+  background-image: url(http://localhost/test/wp-content/uploads/2022/06/abstract-technology-chip-processor-background-circuit-board-and-html-code-blue-technology-background-vector.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -28,7 +28,7 @@ header {
   text-align: center;
 }
 
-.footerr p {
+.footer p {
   background-color: rgb(54, 52, 52);
   color: aliceblue;
   margin-bottom: 0%;
@@ -39,9 +39,10 @@ span {
   padding: 10px;
 }
 
-.footerr {
+.footer {
   position: fixed;
   bottom: 0;
+  margin-left: 5px;
 }
 
 .google {
@@ -50,4 +51,9 @@ span {
 
 .contacts h4 {
   margin-left: 10px;
+}
+
+.button {
+  border-radius: 2px;
+  background-color: #4caf50;
 }

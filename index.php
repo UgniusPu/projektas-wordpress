@@ -14,20 +14,21 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="http://127.0.0.1:5500/assets/webpage.html">HTML+CSS</a>
+            <a class="navbar-brand" href="http://localhost/test/main">HTML+CSS</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link fs-3" aria-current="page" href="/assets/webpage.html">Home </a>
+                        <a class="nav-link fs-3" aria-current="page" href="http://localhost/test/assets/main/">Home </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active fs-3" href="/assets/about.html">About</a>
+                        <a class="nav-link active fs-3" href="http://localhost/test/assets/about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link fs-3" href="/assets/contacts.html">Contacts</a>
+                        <a class="nav-link fs-3" href="http://localhost/test/assets/c/">Contacts</a>
                     </li>
                 </ul>
             </div>
